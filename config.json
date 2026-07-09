@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "─꯭─⃝‌‌FARHAN CHAT BOT",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
